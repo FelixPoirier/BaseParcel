@@ -1,0 +1,13 @@
+body{
+    font-family: $ff-normal;
+    font-size: $fz-normal;
+    color: $color-text-normal;
+    line-height: $lh-normal;
+  
+    margin: 0;
+  
+    background: $color-bg-page;
+  
+    overflow-x: hidden;
+    overflow-y: scroll;
+  }

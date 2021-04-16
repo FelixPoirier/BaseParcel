@@ -1,0 +1,9 @@
+// LA CLASSE hidden-print PERMET DE CACHER UN ÉLÉMENT SEULEMENT À L'IMPRESSION
+
+@media print {
+
+    .hidden-print {
+      display: none !important;
+    }
+  
+  }
